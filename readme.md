@@ -78,10 +78,27 @@ The files in this repo are organized as follows:
 ```
 
 ## Usage
+
+
 We introduce three example scripts to run the codes.
 - [run_one_instance.py](scripts/example/run_one_instance.py), example to query one problem instance
 - [run_one_task.py](scripts/example/run_one_task.py), example to evaluate on task
 - [run_tasks.py](scripts/example/run_tasks.py), example to evaluate on all tasks
+
+If you want to evaluate LLMs locally, running [start_server.py](scripts/example/start_server.py) to host the LLM.
+
+### start_server
+To host the LLM locally
+```bash
+python start_server.py --model codellama2-13b -t run --device 0
+```
+The model can be the name in Huggingface.
+
+To stop the server
+
+```bash
+python start_server.py --model codellama2-13b -t clear --device 0
+```
 
 ### run_one_instance
 ```bash

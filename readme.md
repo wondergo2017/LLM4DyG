@@ -2,6 +2,7 @@
 <p align="center">
     <a href="https://github.com/wondergo2017/llm4dyg"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
     <a href="https://arxiv.org/abs/2310.17110"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=KDD%2724&color=blue"> </a>
+    <a href="https://www.youtube.com/watch?v=uCMZQcKWSbg&list=PLn0nrSd4xjja0X85oQRfVQarMKL-pocwR&index=42"> <img src="https://img.shields.io/badge/Poster-grey?logo=airplayvideo&logoColor=white" alt="Video"></a>
     <!-- <a href="./paper/NeurIPS23_SILD_poster.pdf"> <img src="https://img.shields.io/badge/Poster-grey?logo=airplayvideo&logoColor=white" alt="Poster"></a> -->
 </p>
 

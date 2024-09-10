@@ -4,7 +4,7 @@
     <a href="https://arxiv.org/abs/2310.17110"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=KDD%2724&color=blue"> </a>
     <a href="https://www.youtube.com/watch?v=uCMZQcKWSbg&list=PLn0nrSd4xjja0X85oQRfVQarMKL-pocwR&index=42"> <img src="https://img.shields.io/badge/Video-grey?logo=airplayvideo&logoColor=white" alt="Video"></a>
     <a href="./paper/poster.pdf"> <img src="https://img.shields.io/badge/Poster-grey?logo=airplayvideo&logoColor=white" alt="Poster"></a>
-    <a href="./paper/talk.pdf"> <img src="https://img.shields.io/badge/Poster-grey?logo=airplayvideo&logoColor=white" alt="Oral"></a>
+    <a href="./paper/talk.pdf"> <img src="https://img.shields.io/badge/Oral-grey?logo=airplayvideo&logoColor=white" alt="Oral"></a>
 </p>
 
 This repository contains the code implementation of LLM4DyG as described in the paper: [LLM4DyG: Can Large Language Models Solve Spatial-Temporal Problems on Dynamic Graphs?](https://arxiv.org/abs/2310.17110) (KDD 2024).

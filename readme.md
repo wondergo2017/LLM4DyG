@@ -11,11 +11,11 @@ This repository contains the code implementation of LLM4DyG as described in the 
 
 ## Introduction
 
-<p align="center"><img src="./paper/pipeline.png" width=85% height=85%></p>
-<p align="center"><em>Figure 1.</em> The pipeline of LLM4DyG.</p>
+<p align="center"><img src="./paper/poster.png" width=100% height=100%></p>
+<!-- <p align="center"><em>Figure 1.</em> The pipeline of LLM4DyG.</p> -->
 
-<p align="center"><img src="./paper/framework.png" width=85% height=85%></p>
-<p align="center"><em>Figure 2.</em> Designed tasks in LLM4DyG.</p>
+<!-- <p align="center"><img src="./paper/framework.png" width=85% height=85%></p>
+<p align="center"><em>Figure 2.</em> Designed tasks in LLM4DyG.</p> -->
 
 In an era marked by the increasing adoption of Large Language Models (LLMs) for various tasks, there is a growing focus on exploring LLMs' capabilities in handling web data, particularly graph data. Dynamic graphs, which capture temporal network evolution patterns, are ubiquitous in real-world web data. Evaluating LLMs' competence in understanding spatial-temporal information on dynamic graphs is essential for their adoption in web applications, which remains unexplored in the literature. 
 
@@ -23,10 +23,6 @@ In this paper, we bridge the gap via proposing to evaluate LLMs' spatial-tempora
 considering the capability evaluation of LLMs from both temporal and spatial dimensions. 
 
 Then, we conduct extensive experiments to analyze the impacts of different data generators, data statistics, prompting techniques, and LLMs on the model performance. 
-
-The pipeline is shown in Figure 1 and the designed tasks are shown in Figure 2.
-
-
 
 ## Installation
 We have tested our codes with the following requirements:  
